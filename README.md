@@ -130,7 +130,7 @@ Pour chaque exercice :
 ## Ressources
 
 * Documentation officielle Python : https://docs.python.org/fr/3/
-* Environnement recommandé : IDLE Python
+* Environnement recommandé : PyCharm
 
 ---
 
